@@ -1,0 +1,29 @@
+c:\users\ok\documents\visual studio 2015\Projects\EX3PETP8\EX3PETP8\bin\Debug\EX3PETP8.exe.config
+c:\users\ok\documents\visual studio 2015\Projects\EX3PETP8\EX3PETP8\bin\Debug\EX3PETP8.exe
+c:\users\ok\documents\visual studio 2015\Projects\EX3PETP8\EX3PETP8\bin\Debug\EX3PETP8.pdb
+c:\users\ok\documents\visual studio 2015\Projects\EX3PETP8\EX3PETP8\obj\Debug\EX3PETP8.csprojResolveAssemblyReference.cache
+c:\users\ok\documents\visual studio 2015\Projects\EX3PETP8\EX3PETP8\obj\Debug\EX3PETP8.Form1.resources
+c:\users\ok\documents\visual studio 2015\Projects\EX3PETP8\EX3PETP8\obj\Debug\EX3PETP8.Properties.Resources.resources
+c:\users\ok\documents\visual studio 2015\Projects\EX3PETP8\EX3PETP8\obj\Debug\EX3PETP8.csproj.GenerateResource.Cache
+c:\users\ok\documents\visual studio 2015\Projects\EX3PETP8\EX3PETP8\obj\Debug\EX3PETP8.exe
+c:\users\ok\documents\visual studio 2015\Projects\EX3PETP8\EX3PETP8\obj\Debug\EX3PETP8.pdb
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\bin\Debug\EX3PETP8.exe.config
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\bin\Debug\EX3PETP8.exe
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\bin\Debug\EX3PETP8.pdb
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.csproj.AssemblyReference.cache
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.Form1.resources
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.Properties.Resources.resources
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.csproj.GenerateResource.cache
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.csproj.CoreCompileInputs.cache
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.exe
+C:\Users\chagu\Downloads\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.pdb
+D:\Visual Studio 2019\menu de resto\EX3PETP8\bin\Debug\EX3PETP8.exe.config
+D:\Visual Studio 2019\menu de resto\EX3PETP8\bin\Debug\EX3PETP8.exe
+D:\Visual Studio 2019\menu de resto\EX3PETP8\bin\Debug\EX3PETP8.pdb
+D:\Visual Studio 2019\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.Properties.Resources.resources
+D:\Visual Studio 2019\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.csproj.GenerateResource.cache
+D:\Visual Studio 2019\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.exe
+D:\Visual Studio 2019\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.pdb
+D:\Visual Studio 2019\menu de resto\EX3PETP8\obj\Debug\EX3PETP8.Menu.resources
